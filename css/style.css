@@ -1,0 +1,243 @@
+body{
+margin: 0;
+padding: 0;
+}
+.container{
+	width: 1200px;
+background-color: #fff;
+margin: 0 auto;
+}
+.header{
+	padding: 14px 0;
+overflow: hidden;
+}
+.header .logo{
+	width: 15%;
+float: left;
+}
+.header .logo img{
+	max-width: 100%;
+display: block;
+}
+.menu-bar{
+	width: 85%;
+float: left;
+padding-top: 18px;
+}
+.menu-bar ul{
+	text-align: right;
+margin: 0;
+padding: 0;
+}
+.menu-bar ul li{
+	list-style: none;
+display: inline-block;
+}
+.menu-bar ul li a{
+	text-decoration: none;
+text-transform: uppercase;
+padding: 23px 15px;
+display: block;
+}
+.menu-bar ul li a:hover{}
+.banner{
+	background-image: url(../images/Watch-Dogs.jpg);
+background-repeat: no-repeat;
+text-align: center;
+background-size: cover;
+padding: 182px 0px;
+background-position: 0 0;
+background-attachment: fixed;
+color: white;
+display: block;
+}
+.banner h1{
+	text-shadow: 10px 10px 10px #988;
+font-size: 42px;
+}
+.banner p{}
+
+.header-one{
+	text-align: center;
+color: #7a8398;
+}
+
+.content{
+	overflow: hidden;
+}
+.new-menu{
+overflow: hidden;
+background-color: #f6f1ed;
+padding: 5%;;
+}
+.new-menu h1{
+	color: #4d74ad;
+text-align: center;
+text-transform: uppercase;
+text-shadow: 14px 6px 8px #757392
+}
+.book{
+	background: #f6f1ed;
+overflow: hidden;
+}
+.book .blacker{
+	width: 20%;
+float: left;
+}
+.book .one{
+	width: 15%;
+float: left;
+padding: 26px 108px;
+margin: 0 auto
+}
+.book .one h1{
+	text-align: center;
+text-transform: uppercase;
+text-shadow: 4px 4px 6px #4a2929;
+}
+.pic-one{
+	width: 38%;
+float: left;
+}
+.new-banner{
+	overflow: hidden;
+background: #6c4949;
+}
+.new-banner .right-part{
+	width: 20%;
+float: left;
+}
+.new-banner .left-part{
+	width: 80%;
+background-image: url(../images/hacker.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: 73% 3%;
+background-attachment: fixed;
+padding: 194px 0;
+float: left;
+}
+.left-part h1{
+	text-align: center;
+text-transform: uppercase;
+color: white;
+text-shadow: 4px 5px 6px #9762bc;
+}
+.left-part ul li{
+	text-align: center;
+color: #f0f8f5;
+font-size: 26px;
+padding-bottom: 13px;
+}
+.right-part h1{
+	text-align: center;
+text-transform: uppercase;
+color: white;
+padding: 54px;
+}
+.awesome{
+	background-color: #e4d6d6;
+overflow: hidden;
+}
+.three-menu{
+	text-align: center;
+text-transform: uppercase;
+color: white;
+text-shadow: 4px 4px 5px black;
+}
+
+.clients{}
+.clients .blank-one{
+	width: 13%;
+float: left;
+padding: 4px 18px;
+}
+.clients .cli-pic{
+	width: 25%;
+float: left;
+padding-block-start: 33px;
+}
+.clients .coment{
+	width: 36%;
+float: left;
+padding-block-start: 114px;
+}
+.coment p{
+	padding-inline-start: 94px;
+}
+.next{
+	background-color: green;
+text-align: center;
+text-transform: uppercase;
+color: white;
+text-shadow: 4px 4px 5px black;
+overflow: hidden;
+}
+.footer{
+	background-color: #716b6b;
+overflow: hidden;
+}
+.left-two{
+	width: 33.33%;
+float: left;
+text-align: center;
+}
+.left-two ul{
+	margin: 0;
+	padding: 0;
+}
+.left-two ul li{
+	list-style: none;
+}
+.middle{
+	width: 33.33%;
+float: left;
+text-align: center;
+}
+.middle ul{
+	margin: 0;
+	padding: 0;
+}
+.middle ul li{
+	list-style: none;
+}
+.right-two{
+	width: 33.33%;
+float: left;
+text-align: center;
+}
+.right-two ul{
+	margin: 0;
+	padding: 0;
+}
+.right-two ul li{
+	list-style: none;
+}
+.real-footer{
+	background-color: skyblue;
+overflow: hidden;
+}
+.copyright{
+	width: 50%;
+float: left;
+}
+.social-icon{
+	width: 50%;
+float: left;
+}
+.social-icon ul{
+	margin: 0;
+	padding: 0;
+}
+.social-icon ul li{
+	display: inline-block;
+padding: 10px;
+list-style: none;
+}
+.social-icon ul li a{}
+img{
+	max-width: 100%;
+width: 100%;
+
+}
+
